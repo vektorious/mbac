@@ -2,7 +2,7 @@
 
 **Deep analyse your motility assays and get more information out of them!**
 
-MBac comprises software tools and an optional low-cost hardware setup for bacterial motility determination. The analysis is picture based and can either be used for end point determination or for monitoring bacteria swarming on agar plates. The software can determine various parameters like shape migration speed, migration direction or shape formation which usually are hard to determine in common motility assays.  An optional lighting chamber can be 3D printed and equipped with single-board computer and a camera to perform on-line motility measurements and analysis.  
+MBac comprises software tools and an optional low-cost hardware setup for bacterial motility determination. The analysis is picture based and can either be used for end point determination or for monitoring bacteria swarming on agar plates. The software can determine various parameters like shape migration speed, migration direction or shape formation which usually are hard to determine in common motility assays. An optional lighting chamber can be 3D printed and equipped with single-board computer and a camera to perform on-line motility measurements and analysis.  
 
 ### What has to be done?
 
