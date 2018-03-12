@@ -1,5 +1,10 @@
-# MBac - Taking a closer look on how bacteria move!
-## Deep analysis tools and low-cost hardware setup for bacterial motility determination.
+<p align="center">
+<img src="https://github.com/vektorious/WaterMeButton/blob/master/img/logo_v1.png" width="50"/>
+<h1 align="center">Taking a closer look on how bacteria move!</h1>
+<h3 align="center">Deep analysis tools and low-cost hardware setup for bacterial motility determination</h3>
+</p>
+
+
 
 ## A bit more about the project
 MBac comprises software tools and an optional low-cost hardware setup for bacterial motility determination. The analysis is picture based and can either be used for end point determination or for monitoring bacteria swarming on agar plates. The software can determine various parameters like shape migration speed, migration direction or shape formation which usually are hard to determine in common motility assays. An optional lighting chamber can be 3D printed and equipped with single-board computer and a camera to perform on-line motility measurements and analysis.  

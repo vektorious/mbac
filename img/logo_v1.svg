@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000mm"
+   height="1000mm"
+   viewBox="0 0 3543.3071 3543.307"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo_v1.svg"
+   inkscape:export-filename="/Users/Alex/LRZ Sync+Share/AlexK_LRZ/Inkscape Grafiken/Praesentationen/bacterial_cells_empty"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4397"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4704"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4706"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4253"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="1212.5657"
+     inkscape:cy="516.88373"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="987"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     width="1000mm" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2490.9449)">
+    <g
+       id="g4159"
+       transform="translate(0,-14.189906)">
+      <rect
+         ry="42.17387"
+         y="483.64633"
+         x="1528.8658"
+         height="84.34774"
+         width="173.74623"
+         id="rect4138"
+         style="opacity:1;fill:#006795;fill-opacity:0.39215686;fill-rule:nonzero;stroke:#006795;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4144"
+         d="m 1705.6629,525.06257 c 10.7824,0.48183 21.3929,-6.22701 32.3248,-4.04061 20.7563,4.15125 -6.8117,37.52877 41.4163,33.33503 19.8543,-1.72646 18.8116,-28.53593 33.8401,-33.84011 52.2499,-18.44113 41.8444,12.13465 60.1041,9.09137 9.1569,-1.52615 17.0892,-13.15453 28.2843,-14.64721 17.1455,-2.28607 32.3744,8.8753 47.9822,13.13199"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.99584088,-0.09110949,0.09110949,0.99584088,0,0)"
+         style="opacity:1;fill:#006795;fill-opacity:0.39215686;fill-rule:nonzero;stroke:#006795;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4664"
+         width="173.74623"
+         height="84.34774"
+         x="1519.8573"
+         y="734.37592"
+         ry="42.17387" />
+      <path
+         sodipodi:nodetypes="csssssc"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1760.2797,617.98422 c 10.7815,-0.50256 32.8584,-12.19082 43.9441,-11.00952 21.0482,2.24289 -20.5367,39.00345 27.1086,30.43312 19.6144,-3.52819 21.1842,-27.1007 35.667,-33.75206 50.3524,-23.12489 28.6338,24.4342 46.5402,19.73995 8.9798,-2.35408 14.8095,-25.76848 25.822,-28.27494 16.866,-3.83868 25.9773,22.05121 64.1314,3.65498"
+         id="path4666"
+         inkscape:connector-curvature="0" />
+      <rect
+         ry="42.17387"
+         y="-672.60052"
+         x="1599.8917"
+         height="84.34774"
+         width="173.74623"
+         id="rect4668"
+         style="opacity:1;fill:#006795;fill-opacity:0.39215686;fill-rule:nonzero;stroke:#006795;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="matrix(0.99584088,0.09110949,0.09110949,-0.99584088,0,0)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4670"
+         d="m 1711.7924,790.43234 c 10.7815,0.50256 32.8584,12.19082 43.9441,11.00952 21.0482,-2.24289 -20.5367,-39.00345 27.1086,-30.43312 19.6144,3.52819 21.1842,27.1007 35.6669,33.75206 50.3524,23.12489 28.6338,-24.4342 46.5403,-19.73995 8.9798,2.35408 14.8094,25.76848 25.822,28.27494 16.866,3.83868 25.9773,-22.05121 64.1314,-3.65498"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="csssssc" />
+      <rect
+         transform="scale(1,-1)"
+         style="opacity:1;fill:#006795;fill-opacity:0.39215686;fill-rule:nonzero;stroke:#006795;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4672"
+         width="173.74623"
+         height="84.34774"
+         x="1724.8354"
+         y="-753.86212"
+         ry="42.17387" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1901.6325,712.44587 c 10.7824,-0.48183 21.3928,6.22701 32.3248,4.04061 20.7563,-4.15125 -6.8117,-37.52877 41.4163,-33.33503 19.8543,1.72646 18.8116,28.53593 33.8401,33.84011 52.2499,18.44113 41.8444,-12.13465 60.1041,-9.09137 9.1569,1.52615 17.0891,13.15453 28.2843,14.64721 17.1455,2.28607 32.3744,-8.8753 47.9822,-13.13199"
+         id="path4674"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;line-height:125%;font-family:Courier;-inkscape-font-specification:'Courier, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="1014.1932"
+       y="704.86981"
+       id="text4155"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4157"
+         x="1014.1932"
+         y="704.86981"
+         style="-inkscape-font-specification:'Courier, Normal';font-family:Courier;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:225px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">MBac</tspan></text>
+  </g>
+</svg>
