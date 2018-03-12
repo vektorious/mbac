@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/vektorious/WaterMeButton/blob/master/img/logo_v1.png" width="50"/>
+<img src="https://github.com/vektorious/mbac/blob/master/img/logo_v1.png" width="50"/>
 <h1 align="center">Taking a closer look on how bacteria move!</h1>
 <h3 align="center">Deep analysis tools and low-cost hardware setup for bacterial motility determination</h3>
 </p>
