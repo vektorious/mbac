@@ -3,7 +3,7 @@
 <h1 align="center">Taking a closer look on how bacteria move!</h1>
 <h3 align="center">Deep analysis tools and low-cost hardware setup for bacterial motility determination</h3>
 </p>
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
 
 ## Hello!
 Welcome to the MBac project repository! I started it as part of Mozilla Open Leaders Round 5 in early 2018. Here we work on the development of software tools and a low-cost open hardware setup to study how bacteria move. If you are interested you can read a bit more about the idea behind MBac and who I am in this README.
