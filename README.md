@@ -3,15 +3,16 @@
 <h1 align="center">Taking a closer look on how bacteria move!</h1>
 <h3 align="center">Deep analysis tools and low-cost hardware setup for bacterial motility determination</h3>
 </p>
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+## Hello!
+Welcome to the MBac project repository! I started it as part of Mozilla Open Leaders Round 5 in early 2018. Here we work on the development of software tools and a low-cost open hardware setup to study how bacteria move. If you are interested you can read a bit more about the idea behind MBac and who I am in this README.
+
+## Why would somebody be interested in bacteria movements?
+Almost all bacteria can perform some kind of active movement. This means they can travel distances with their own power without being transported by wind or water. The ability to move is very crucial because it makes a lot of things easier and faster. For example bacteria can follow traces of small molecules which lead them to their food (this is called [chemotaxis](https://en.wikipedia.org/wiki/Chemotaxis)). You can imagine this like the smell of a freshly brewed coffee and like you the bacteria rely on active movement to follow its lead and find the source of it! Another advantage is the resulting ability to move to different places to check out how living is there. This enables the bacteria found new communities and discover food sources. They can also move together as a group like a swarm of fish in the sea or birds in the sky (that's why this ability is called [swarming motility](https://en.wikipedia.org/wiki/Swarming_motility)). While all this very useful for the bacteria it often causes problems in the fight against harmful bacteria species. For example they can form community layer ([biofilm](https://en.wikipedia.org/wiki/Biofilm)) on medical instruments which is are hard to remove because the bacteria provide each other stability and protection. That's why the ability to move and spread faster sometimes makes a bacterium more dangerous  than others. This is one reason why many scientists are studying bacteria movements and how they are made possible. In my PhD project I am looking at molecular surface structures of bacteria and how they influence the way bacteria move and colonize plants
+
+## Let me present to you: The Problem
 
 
-
-## A bit more about the project
-MBac comprises software tools and an optional low-cost hardware setup for bacterial motility determination. The analysis is picture based and can either be used for end point determination or for monitoring bacteria swarming on agar plates. The software can determine various parameters like shape migration speed, migration direction or shape formation which usually are hard to determine in common motility assays. An optional lighting chamber can be 3D printed and equipped with single-board computer and a camera to perform on-line motility measurements and analysis.  
-
-
-Explain what makes your project special, useful, exciting! You can use the ideas you generated for “Unique Value Proposition” in your Open Canvas here.
-
-Show how to get started using or contributing to the project. If you’re just getting started, this could be as simple as asking people to attend a planning call or kick-off event, or sign up for an email newsletter about the project. If you’re not sure quite how to get users involved just yet, don’t worry! In the next module, you’ll devise some ways for newcomers to get involved, and create contributor guidelines. Once you’ve done the next module, and you can come back to this README and add a link to contributor guidelines to this section.
-
-State what resources are most needed. If you have a need for a special kind of help, expertise, or a resource like event space, be sure to mention that here.
+## Who is behind all this?
+I am a PhD student at the Technical University of Munich, combining microbiology, plant sciences and biochemistry in my research. I love 3D printing, recreating scientific instruments and getting lost on unnecessary nerdy projects. MBac started as one of such nerdy projects but turned into something unexpectedly useful. If you want to know about other things I do and did so far you can visit [openplant.science](openplant.science) or follow me on [twitter](https://twitter.com/alexwastooshort).
