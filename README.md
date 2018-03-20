@@ -16,4 +16,4 @@ Almost all bacteria can perform some kind of active movement. This means they ca
 
 
 ## Who is behind all this?
-I am a PhD student at the Technical University of Munich, combining microbiology, plant sciences and biochemistry in my research. I love 3D printing, recreating scientific instruments and getting lost on unnecessary nerdy projects. MBac started as one of such nerdy projects but turned into something unexpectedly useful. If you want to know about other things I do and have done so far you can visit [openplant.science](openplant.science) or follow me on [twitter](https://twitter.com/alexwastooshort).
+I am a PhD student at the Technical University of Munich, combining microbiology, plant sciences and biochemistry in my research. I love 3D printing, recreating scientific instruments and getting lost on unnecessary nerdy projects. MBac started as one of such nerdy projects but turned into something unexpectedly useful. If you want to know about other things I do and have done so far you can visit [openplant.science](https://openplant.science) or follow me on [twitter](https://twitter.com/alexwastooshort).
