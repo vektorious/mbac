@@ -14,12 +14,12 @@ Welcome to the MBac project repository! I started it as part of Mozilla Open Lea
 
 You can directly jump to the sections:
 
-- [How everything started](#What are your bacteria doing when you are not looking?)
-- [A bit of background](#Why would somebody be interested in bacteria movements?)
-- [What's to solve?](#Let me present to you: The Problem)
-- [How can you contribute?](#How can you contribute)
-- [And why should you contribute?](#And why should you contribute?)
-- [Who is behind all this?](#Who is behind all this?)
+- [How everything started](#what-are-your-bacteria-doing-when-you-are-not-looking)
+- [A bit of background](#why-would-somebody-be-interested-in-bacteria-movements)
+- [What's to solve?](#let-me-present-to-you-the-problem)
+- [How can you contribute?](#how-can-you-contribute)
+- [And why should you contribute?](#and-why-should-you-contribute)
+- [Who is behind all this?](#who-is-behind-all-this)
 
 
 
