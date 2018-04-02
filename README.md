@@ -11,9 +11,9 @@
 
 ## Hello!
 Welcome to the MBac project repository! I started it as part of Mozilla Open Leaders Round 5 in early 2018. Here we work on the development of software tools and a low-cost open hardware setup to study how bacteria move. If you are interested you can read a bit more about the idea behind MBac and who I am in this README.
-
-[Things we are currently working on](https://github.com/vektorious/mbac/issues)
-
+<p align="center">
+:star::star2: [Things we are currently working on](https://github.com/vektorious/mbac/issues) :star2::star:
+</p>
 You can directly jump to the sections:
 
 - [How everything started](#what-are-your-bacteria-doing-when-you-are-not-looking)
@@ -51,12 +51,15 @@ On the right you can see a gif of my first pre tests. As you can see the shapes 
 
 The project can be divided into two parts:
 
-[Hardware]():
+[Hardware](#) :hammer::
+
 Design a setup for "dark field" agar plate imaging with a Raspberry Pi + camera. You could contribute by:
 - designing/optimizing the imaging setup
 - testing the setup
 
-[Software](): Write a computer vision application to calculate the are the bacteria cover and how fast they move from images. You could contribute by helping us to develop a script which can:
+[Software](#) :dvd::
+
+Write a computer vision application to calculate the are the bacteria cover and how fast they move from images. You could contribute by helping us to develop a script which can:
 - identify agar plates on a picture
 - detect bacteria movement on agar plates
 - calculate the area covered by the bacteria
