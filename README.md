@@ -12,7 +12,7 @@
 ## Hello!
 Welcome to the MBac project repository! I started it as part of Mozilla Open Leaders Round 5 in early 2018. Here we work on the development of software tools and a low-cost open hardware setup to study how bacteria move. If you are interested you can read a bit more about the idea behind MBac and who I am in this README.
 <p align="center">
-:star::star2: [Things we are currently working on](https://github.com/vektorious/mbac/issues) :star2::star:
+:star::star2: <a href="https://github.com/vektorious/mbac/issues">Things we are currently working on</a> :star2::star:
 </p>
 You can directly jump to the sections:
 
