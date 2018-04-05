@@ -18,9 +18,9 @@ Having a proper lighting chamber is very important for picture quality.
 
 #### Milestone: Release of first software version
 This should be a simple first version of the software without GUI or anything like that. It should be able to analyse at least two parameters from the pictures: migration area and migration speed over time.
-- Detection of agar plate and inoculation site
-- Image segmentation to identify migration area
-- Migration area and speed over time from picture series
+- Detection of agar plate and inoculation site [issue #4](https://github.com/vektorious/mbac/issues/4)
+- Image segmentation to identify migration area [issue #5](https://github.com/vektorious/mbac/issues/5)
+- Migration area and speed over time from picture series [issue #6](https://github.com/vektorious/mbac/issues/6) and [issue #7](https://github.com/vektorious/mbac/issues/7)
 
 #### Milestone: Mozilla's Global Sprint (10.-12.05.2018)
 **Deadline: 09.05.2018**
