@@ -21,9 +21,9 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-Check the issues of our [latest milestone]()!
+Check the issues of our [latest milestone](https://github.com/vektorious/mbac/milestone/1)!
 
-You can take a look at the complete [roadmap]() to find out what we are planning in the future
+You can take a look at the complete [roadmap](https://github.com/vektorious/mbac/blob/master/ROADMAP.md) to find out what we are planning in the future
 
 ## How to submit changes
 
@@ -43,3 +43,5 @@ If you are new to GitHub issue tracker take a look [here](https://guides.github.
 
 ## Communication channels
 If you want to get in touch with us join our [gitter](https://gitter.im/mbac-project/Lobby) chat!
+
+This CONTRIBUTING.md was created using [this awesome template](https://github.com/acabunoc/mozsprint-repo-template/blob/master/CONTRIBUTING.md) from @acabunoc 
