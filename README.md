@@ -51,13 +51,13 @@ On the right you can see a gif of my first pre tests. As you can see the shapes 
 
 The project can be divided into two parts:
 
-[Hardware](#) :hammer::
+[Hardware](#) :hammer:
 
 Design a setup for "dark field" agar plate imaging with a Raspberry Pi + camera. You could contribute by:
 - designing/optimizing the imaging setup
 - testing the setup
 
-[Software](#) :dvd::
+[Software](#) :dvd:
 
 Write a computer vision application to calculate the are the bacteria cover and how fast they move from images. You could contribute by helping us to develop a script which can:
 - identify agar plates on a picture
