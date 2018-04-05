@@ -12,9 +12,9 @@ Here you see the project roadmap with open and completed milestones.
 #### Milestone: Build first version of a lighting chamber with camera
 Having a proper lighting chamber is very important for picture quality.
 
-- Design a lid with slot for camera
-- Design a main body for dark field lighting a plate. Inspired by "A bucket of light" from John S. Parkinson [(2007)](http://chemotaxis.biology.utah.edu/Parkinson_Lab/publications/PDFs/Parkinson,%202007b.pdf)
-- Test the setup, create a time-lapse video and put it on YouTube
+- Design a lid with slot for camera [issue #2](https://github.com/vektorious/mbac/issues/2)
+- Design a main body for dark field lighting a plate. Inspired by "A bucket of light" from John S. Parkinson [(2007)](http://chemotaxis.biology.utah.edu/Parkinson_Lab/publications/PDFs/Parkinson,%202007b.pdf) [issue #1](https://github.com/vektorious/mbac/issues/1)
+- Test the setup, create a time-lapse video and put it on YouTube [issue #3](https://github.com/vektorious/mbac/issues/3)
 
 #### Milestone: Release of first software version
 This should be a simple first version of the software without GUI or anything like that. It should be able to analyse at least two parameters from the pictures: migration area and migration speed over time.
