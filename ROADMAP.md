@@ -1,4 +1,4 @@
-## Roadmap
+## Roadmap 🗺
 
 **Deep analyse your motility assays and get more information out of them!**
 
