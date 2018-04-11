@@ -10,7 +10,7 @@
 -->
 
 ## Hello!
-Welcome to the MBac project repository! I started it as part of Mozilla Open Leaders Round 5 in early 2018. Here we work on the development of software tools and a low-cost open hardware setup to study how bacteria move. If you are interested you can read a bit more about the idea behind MBac and who I am in this README.
+Welcome to the MBac project repository! It started as part of Mozilla Open Leaders Round 5 in early 2018. Here we work on the development of software tools and a low-cost open hardware setup to study how bacteria move. If you are interested you can read a bit more about the idea behind MBac in this README and get in contact on [gitter](https://gitter.im/mbac-project/Lobby).
 <p align="center">
 :star::star2: <a href="https://github.com/vektorious/mbac/issues">Things we are currently working on</a> :star2::star:
 </p>
@@ -65,7 +65,7 @@ Write a computer vision application to calculate the are the bacteria cover and 
 - calculate the area covered by the bacteria
 - calculate movement rate
 
-For a more detailed description about how you can contribute check out [CONTRIBUTING.md](https://github.com/vektorious/mbac/blob/master/CONTRIBUTING.md).
+For a more detailed description about how you can contribute check out [CONTRIBUTING.md](https://github.com/vektorious/mbac/blob/master/CONTRIBUTING.md) or join our [gitter channel](https://gitter.im/mbac-project/Lobby).
 
 Since this project is part of Mozilla Open Leaders Round 5 (and because they are well elaborated) the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) apply to everyone who wants to contribute to this project.
 

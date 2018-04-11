@@ -23,4 +23,11 @@ This should be a simple first version of the software without GUI or anything li
 - Migration area and speed over time from picture series [issue #6](https://github.com/vektorious/mbac/issues/6) and [issue #7](https://github.com/vektorious/mbac/issues/7)
 
 #### Milestone: Mozilla's Global Sprint (10.-12.05.2018)
+
+#### Future Goals
+There are many thing which can added to the build/software. Here are just some ideas:
+- image server
+- shape scoring
+- deep learning
+
 **Deadline: 09.05.2018**
