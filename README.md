@@ -49,6 +49,11 @@ Using computer vision software to monitor bacteria movements increases the accur
 On the right you can see a gif of my first pre tests. As you can see the shapes change during the time and I would have missed that without taking all those pictures!
 ## How can you contribute?
 
+<p align="center">
+<img src="https://github.com/vektorious/mbac/blob/master/img/setup_sketch_v1.png" width="600"/>
+
+Above you see the proposed setup.  
+
 The project can be divided into two parts:
 
 [Hardware](#) :hammer:
@@ -56,6 +61,7 @@ The project can be divided into two parts:
 Design a setup for "dark field" agar plate imaging with a Raspberry Pi + camera. You could contribute by:
 - designing/optimizing the imaging setup
 - testing the setup
+- create a Raspberry Pi image server
 
 [Software](#) :dvd:
 
