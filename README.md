@@ -50,7 +50,7 @@ On the right you can see a gif of my first pre tests. As you can see the shapes 
 ## How can you contribute?
 
 <p align="center">
-<img src="https://github.com/vektorious/mbac/blob/master/img/setup_sketch_v1.png" width="600"/>
+<img src="https://github.com/vektorious/mbac/blob/master/img/setup_sketch_v1.png" width="900"/>
 
 Above you see the proposed setup.  
 
