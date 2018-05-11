@@ -60,6 +60,11 @@ def exp_analysis():
 def tests():
     """ developing tests 
     """
+    
     pass
 
 
+if __name__ == '__main__':
+    load_frames()
+#    exp_analysis()
+    tests()
