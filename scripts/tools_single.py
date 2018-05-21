@@ -21,12 +21,15 @@ def detect_container(img):
         cnt: an opencv contour object representing the inner border 
               of the petridish
     """
+    #smooth image preserving edges
+    img = cv.bilateralFilter(img, 1,75,75)
+    
     # edge detection
     edges = cv.Canny(img,18,32)
     
     # dilate edges
     # to close small openings
-    kernel = np.ones((2,2),np.uint8)
+    kernel = np.ones((3,3),np.uint8)
     edges = cv.dilate(edges,kernel,iterations = 2)
     
     #find contours

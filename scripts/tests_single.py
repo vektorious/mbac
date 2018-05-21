@@ -42,6 +42,17 @@ def load_frames():
     
     return None
 
+def plot_inner_area():
+    """test plot to check  dish inner area"""
+    areas = []
+    for frame in frames_list:
+        #open the frame in grayscake
+        img = cv.imread(path + frame, 0)
+        #call detect_container from tools_single.py
+        inner_cnt = tools.detect_container(img)
+        areas.append(cv.contourArea(inner_cnt))
+    plt.plot(areas)
+    return areas
 
 def test_inner_contour():
     """ displays the inner contour and the minimum circled enclosed on it
@@ -52,7 +63,7 @@ def test_inner_contour():
     isExit = False
     
     for frame in frames_list:
-        #open the frame in grayscake
+        #open the frame in grayscale
         img = cv.imread(path + frame, 0)
         
         #call detect_container from tools_single.py
