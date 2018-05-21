@@ -85,5 +85,41 @@ def test_inner_contour():
     
     return None
 
+def test_inner_dish():
+    """ displays a inner area of the container suitable for future process
+    """    
+
+    isExit = False
+    
+    for frame in frames_list:
+        #open the frame in grayscake
+        img = cv.imread(path + frame, 0)
+        
+        #call detect_container from tools_single.py
+        inner_cnt = tools.detect_container(img)
+        
+        #call ext_inner_cntnr from tools_singple.py
+        inner_dish = tools.ext_inner_dish(img, inner_cnt)
+        
+        #convert the frame to BGR
+        inner_dish = cv.cvtColor(inner_dish, cv.COLOR_GRAY2BGR)
+        
+        #draw inner contour over inner_dish
+        cv.drawContours(inner_dish, [inner_cnt], -1, (200,0,0), 1)
+        
+        #display frame
+        cv.imshow('image',inner_dish)
+#        cv.imshow('image2',img)
+        # delay and 'q' key press to exit the animation
+        if cv.waitKey(50) & 0xFF == ord('q'):
+            isExit = True
+            break
+        
+    while(not isExit):
+        # prevent exit the display window till the user presses 'q'
+        if cv.waitKey(1) & 0xFF == ord('q'):
+            break
+    cv.destroyAllWindows()
+
 if __name__ == '__main__':
     load_frames()

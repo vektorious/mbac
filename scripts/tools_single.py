@@ -53,7 +53,7 @@ def detect_container(img):
     
     return inner_cnt
 
-def ext_inner_cntnr(img, cnt):
+def ext_inner_dish(img, cnt):
     """ extract the inner region of a container: not the circular region, 
         rather a clean (no border reflections) inner region
     input
@@ -67,9 +67,9 @@ def ext_inner_cntnr(img, cnt):
     mask = np.zeros(img.shape, np.uint8) #create black mask
     cv.drawContours(mask, [cnt], -1, (255),-1) #white the area inside the contour
     img_masked = cv.bitwise_and(img,img,mask = mask) #mask applied to original image
+    
     return img_masked
     
-    pass
 
 def calc_brightRange(img, ROI):
     """ calculates mimimum and maximum grayscale value inside the petridish empty area
