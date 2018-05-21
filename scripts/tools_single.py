@@ -53,16 +53,21 @@ def detect_container(img):
     
     return inner_cnt
 
-def create_ROI(img, cnt):
-    """ creates a mask displaying only the region inside cnt in the image 
+def ext_inner_cntnr(img, cnt):
+    """ extract the inner region of a container: not the circular region, 
+        rather a clean (no border reflections) inner region
     input
         img: grayscale image as numpy array
         cnt: opencv contour object representing the inner border 
               of the petridish
     output
-        ROI: a binary mask (black/white), numpy array, representing the area inside 
-             the petridish
+        ROI: an image showing only the inner region of the petri dish in grayscale
+            and in black color the rest of the image
     """
+    mask = np.zeros(img.shape, np.uint8) #create black mask
+    cv.drawContours(mask, [cnt], -1, (255),-1) #white the area inside the contour
+    img_masked = cv.bitwise_and(img,img,mask = mask) #mask applied to original image
+    return img_masked
     
     pass
 
