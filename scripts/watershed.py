@@ -150,6 +150,7 @@ def calc_area_max(images, background):
     return area_max
 
 def process_images(images, partial=True):
+    os.mkdir('./images')
     os.system('rm -r ./images/*')
     background0 = calc_background(images)
     area_max = calc_area_max(images, background0)
