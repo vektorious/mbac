@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://github.com/vektorious/mbac/blob/master/img/achtung.png" width="200"/>
 <h3 align="center">Project is not maintained anymore! It was relaunched with a expanded scope and a new name:
-<a href="https://github.com/vektorious/lightM" Have a look at the lightM project! </a>
+<a href="https://github.com/vektorious/lightM"> Have a look at the lightM project! </a>
 </h3>
 </p>
 
