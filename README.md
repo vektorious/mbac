@@ -8,12 +8,16 @@
 <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103"/>
 [![Generic badge](https://img.shields.io/badge/Open Science-Hardware-blue.svg)](http://openhardware.science/)
 -->
-
-## Hello!
-Welcome to the MBac project repository! It started as part of Mozilla Open Leaders Round 5 in early 2018. Here we work on the development of software tools and a low-cost open hardware setup to study how bacteria move. If you are interested you can read a bit more about the idea behind MBac in this README and get in contact on [gitter](https://gitter.im/mbac-project/Lobby).
 <p align="center">
-:star::star2: <a href="https://github.com/vektorious/mbac/issues">Things we are currently working on</a> :star2::star:
+<img src="https://github.com/vektorious/mbac/blob/master/img/achtung.png" width="200"/>
+<h3 align="center">Project is not maintained anymore! It was relaunched with a expanded scope and a new name:
+<a href="https://github.com/vektorious/lightM" Have a look at the lightM project! </a>
+</h3>
 </p>
+
+
+Welcome to the MBac project repository! It started as part of Mozilla Open Leaders Round 5 in early 2018. Here we work on the development of software tools and a low-cost open hardware setup to study how bacteria move. If you are interested you can read a bit more about the idea behind MBac in this README and get in contact on [gitter](https://gitter.im/mbac-project/Lobby).
+
 You can directly jump to the sections:
 
 - [How everything started](#what-are-your-bacteria-doing-when-you-are-not-looking)
