@@ -14,7 +14,8 @@
 <a href="https://github.com/vektorious/lightM"> Have a look at the lightM project! </a>
 </h3>
 </p>
-
+<br>
+<br>
 
 Welcome to the MBac project repository! It started as part of Mozilla Open Leaders Round 5 in early 2018. Here we work on the development of software tools and a low-cost open hardware setup to study how bacteria move. If you are interested you can read a bit more about the idea behind MBac in this README and get in contact on [gitter](https://gitter.im/mbac-project/Lobby).
 
